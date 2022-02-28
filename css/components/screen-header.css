@@ -25,7 +25,7 @@
     left: 0px;
     bottom: 20px;
 }
-/* 
+
 @keyframes rotateCog {
     for {
         trnasform: none;
@@ -38,4 +38,4 @@
 
 .screen-header__icons .fa-cog:hover {
     animation: rotateCog 1s linear infinite;
-} */
+}
